@@ -11,3 +11,5 @@ text: the text of the article; could be incomplete
 label: a label that marks whether the news article is real or fake:
     1: Fake news
     0: real News
+
+Dataset is collected from Kaggle: https://www.kaggle.com/c/fake-news/data?select=train.csv

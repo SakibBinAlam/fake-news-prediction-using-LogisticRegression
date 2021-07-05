@@ -1,6 +1,6 @@
 # fake-news-prediction-using-LogisticRegression
 
-Building a Fake News Prediction System using Machine Learning with Python. I will be using Logistic Regression model for prediction. The dataset contains 20,000 data.
+Building a Fake News Prediction System using Machine Learning with Python. I used Logistic Regression model for prediction. The dataset contains 20,000 data.
 
 # Dataset
 
